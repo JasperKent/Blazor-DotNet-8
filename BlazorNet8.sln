@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8", "BlazorNet8\BlazorNet8\BlazorNet8.csproj", "{B5180094-D072-4A60-9AC2-D67D05A3B90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNet8.Client", "BlazorNet8\BlazorNet8.Client\BlazorNet8.Client.csproj", "{CDDC20DB-52BA-4FCD-972C-1C155566B4F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5180094-D072-4A60-9AC2-D67D05A3B90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5180094-D072-4A60-9AC2-D67D05A3B90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5180094-D072-4A60-9AC2-D67D05A3B90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5180094-D072-4A60-9AC2-D67D05A3B90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDC20DB-52BA-4FCD-972C-1C155566B4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDC20DB-52BA-4FCD-972C-1C155566B4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDC20DB-52BA-4FCD-972C-1C155566B4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDC20DB-52BA-4FCD-972C-1C155566B4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9812DCB-1BFC-4FF5-AC56-2B8A78EBD669}
+	EndGlobalSection
+EndGlobal
